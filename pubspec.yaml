@@ -24,17 +24,3 @@ dev_dependencies:
   flutter_test:
     sdk: flutter
   test: ^1.24.9
-
-# For information on the generic Dart part of this file, see the
-# following page: https://dart.dev/tools/pub/pubspec
-
-# The following section is specific to Flutter.
-flutter:
-  plugin:
-    platforms:
-      android:
-        default_package: eanalytics
-      ios:
-        default_package: eanalytics
-      web:
-        default_package: eanalytics
