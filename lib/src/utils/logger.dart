@@ -6,7 +6,7 @@ class EALogger {
   static final logger = Logger(
       printer: PrettyPrinter(
           printEmojis: true,
-          printTime: true,
+          dateTimeFormat: DateTimeFormat.onlyTimeAndSinceStart,
           errorMethodCount: 0,
           methodCount: 0));
 
