@@ -9,15 +9,15 @@ environment:
 
 dependencies:
   advertising_id: ^2.6.0
-  android_id: ^0.4.0
+  android_id: ^0.5.1
   android_play_install_referrer: ^0.4.0
   async: ^2.11.0
-  device_info_plus: ^11.5.0
+  device_info_plus: ^12.2.0
   flutter:
     sdk: flutter
   http: ^1.2.1
   logger: ^2.2.0
-  package_info_plus: ^8.0.0
+  package_info_plus: ^9.0.0
   shared_preferences: ^2.2.3
 
 dev_dependencies:
